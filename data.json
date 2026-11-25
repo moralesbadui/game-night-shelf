@@ -1,0 +1,3351 @@
+{
+ "exported": "2026-11-25",
+ "games": {
+  "7-wonders-architects": {
+   "age": 6,
+   "ageBox": false,
+   "best": [],
+   "bggId": 346703,
+   "bggRating": 7.224,
+   "bggVotes": 949,
+   "good": [],
+   "maxP": 7,
+   "mechs": [
+    "drafting",
+    "sets"
+   ],
+   "minP": 2,
+   "name": "7 Wonders Architects",
+   "note": "",
+   "primary": "family",
+   "secondary": [],
+   "tMax": 25,
+   "tMin": 25,
+   "weight": 1.43
+  },
+  "7-wonders-duel": {
+   "age": 10,
+   "ageBox": false,
+   "best": [
+    2
+   ],
+   "bggId": 173346,
+   "bggRating": 8.107,
+   "bggVotes": 68294,
+   "good": [
+    2
+   ],
+   "maxP": 2,
+   "mechs": [
+    "drafting",
+    "tiles",
+    "sets",
+    "engine"
+   ],
+   "minP": 2,
+   "name": "7 Wonders Duel",
+   "note": "",
+   "primary": "twoplayer",
+   "secondary": [
+    "strategy",
+    "economy"
+   ],
+   "tMax": 30,
+   "tMin": 30,
+   "weight": 2.23
+  },
+  "7-wonders": {
+   "age": 10,
+   "ageBox": false,
+   "best": [
+    4
+   ],
+   "bggId": 68448,
+   "bggRating": 7.737,
+   "bggVotes": 89249,
+   "good": [
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "maxP": 7,
+   "mechs": [
+    "drafting",
+    "sets",
+    "engine"
+   ],
+   "minP": 2,
+   "name": "7 Wonders",
+   "note": "",
+   "primary": "economy",
+   "secondary": [
+    "strategy",
+    "family"
+   ],
+   "tMax": 30,
+   "tMin": 30,
+   "weight": 2.33
+  },
+  "a-game-of-thrones": {
+   "age": 14,
+   "ageBox": false,
+   "best": [
+    6
+   ],
+   "bggId": 103343,
+   "bggRating": 7.583,
+   "bggVotes": 30080,
+   "good": [
+    5,
+    6
+   ],
+   "maxP": 6,
+   "mechs": [
+    "trade",
+    "area",
+    "bluff",
+    "auction",
+    "takethat"
+   ],
+   "minP": 3,
+   "name": "A Game of Thrones",
+   "note": "",
+   "primary": "strategy",
+   "secondary": [
+    "economy"
+   ],
+   "tMax": 240,
+   "tMin": 120,
+   "weight": 3.72
+  },
+  "agricola": {
+   "age": 12,
+   "ageBox": false,
+   "best": [
+    4
+   ],
+   "bggId": 31260,
+   "bggRating": 7.928,
+   "bggVotes": 65810,
+   "good": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "maxP": 5,
+   "mechs": [
+    "drafting",
+    "workers",
+    "engine"
+   ],
+   "minP": 1,
+   "name": "Agricola",
+   "note": "",
+   "primary": "family",
+   "secondary": [
+    "strategy"
+   ],
+   "tMax": 150,
+   "tMin": 30,
+   "weight": 3.64
+  },
+  "alhambra-the-dice-game": {
+   "age": 9,
+   "ageBox": false,
+   "best": [
+    4
+   ],
+   "bggId": 25491,
+   "bggRating": 6.208,
+   "bggVotes": 1140,
+   "good": [
+    2,
+    3,
+    4
+   ],
+   "maxP": 6,
+   "mechs": [
+    "dice",
+    "sets"
+   ],
+   "minP": 2,
+   "name": "Alhambra: The Dice Game",
+   "note": "",
+   "primary": "dice",
+   "secondary": [],
+   "tMax": 60,
+   "tMin": 60,
+   "weight": 1.72
+  },
+  "alhambra": {
+   "age": 8,
+   "ageBox": false,
+   "best": [
+    3
+   ],
+   "bggId": 6249,
+   "bggRating": 7.029,
+   "bggVotes": 30026,
+   "good": [
+    2,
+    3,
+    4
+   ],
+   "maxP": 6,
+   "mechs": [
+    "drafting",
+    "tiles",
+    "sets"
+   ],
+   "minP": 2,
+   "name": "Alhambra",
+   "note": "",
+   "primary": "family",
+   "secondary": [
+    "dice"
+   ],
+   "tMax": 60,
+   "tMin": 45,
+   "weight": 2.1
+  },
+  "apollo": {
+   "age": 11,
+   "ageBox": false,
+   "best": [],
+   "bggId": 313008,
+   "bggRating": 6.599,
+   "bggVotes": 265,
+   "good": [],
+   "maxP": 5,
+   "mechs": [
+    "clues"
+   ],
+   "minP": 2,
+   "name": "Apollo",
+   "note": "",
+   "primary": "cooperative",
+   "secondary": [],
+   "tMax": 60,
+   "tMin": 30,
+   "weight": 2.38
+  },
+  "azul": {
+   "age": 8,
+   "ageBox": false,
+   "best": [
+    2
+   ],
+   "bggId": 230802,
+   "bggRating": 7.803,
+   "bggVotes": 61527,
+   "good": [
+    2,
+    3,
+    4
+   ],
+   "maxP": 4,
+   "mechs": [
+    "tiles",
+    "sets"
+   ],
+   "minP": 2,
+   "name": "Azul",
+   "note": "",
+   "primary": "family",
+   "secondary": [],
+   "tMax": 45,
+   "tMin": 30,
+   "weight": 1.76
+  },
+  "backgammon": {
+   "age": 8,
+   "ageBox": false,
+   "best": [
+    2
+   ],
+   "bggId": 2397,
+   "bggRating": 6.545,
+   "bggVotes": 12238,
+   "good": [
+    2
+   ],
+   "maxP": 2,
+   "mechs": [
+    "dice",
+    "bluff",
+    "race"
+   ],
+   "minP": 2,
+   "name": "Backgammon",
+   "note": "",
+   "primary": "dice",
+   "secondary": [
+    "twoplayer"
+   ],
+   "tMax": 30,
+   "tMin": 30,
+   "weight": 2.02
+  },
+  "barcelona": {
+   "age": 12,
+   "ageBox": false,
+   "best": [
+    3
+   ],
+   "bggId": 383607,
+   "bggRating": 7.7,
+   "bggVotes": 4752,
+   "good": [],
+   "maxP": 4,
+   "mechs": [
+    "workers",
+    "tiles"
+   ],
+   "minP": 1,
+   "name": "Barcelona",
+   "note": "",
+   "primary": "strategy",
+   "secondary": [],
+   "tMax": 90,
+   "tMin": 60,
+   "weight": 3.36
+  },
+  "betrayal-at-house-on-the-hill": {
+   "age": 12,
+   "ageBox": false,
+   "best": [
+    5
+   ],
+   "bggId": 10547,
+   "bggRating": 7.058,
+   "bggVotes": 39320,
+   "good": [
+    3,
+    4,
+    5,
+    6
+   ],
+   "maxP": 6,
+   "mechs": [
+    "dice",
+    "bluff",
+    "clues",
+    "takethat"
+   ],
+   "minP": 3,
+   "name": "Betrayal at House on the Hill",
+   "note": "2nd and 3rd editions counted once",
+   "primary": "family",
+   "secondary": [],
+   "tMax": 60,
+   "tMin": 60,
+   "weight": 2.39
+  },
+  "big-bang-theory-fact-or-fiction": {
+   "age": 14,
+   "ageBox": true,
+   "best": [],
+   "bggId": null,
+   "bggRating": 4.36,
+   "bggVotes": 196,
+   "good": [],
+   "maxP": 8,
+   "mechs": [
+    "dice",
+    "sets"
+   ],
+   "minP": 2,
+   "name": "Big Bang Theory Fact or Fiction",
+   "note": "Trivia; BGG id not confirmed",
+   "primary": "party",
+   "secondary": [],
+   "tMax": 30,
+   "tMin": 30,
+   "weight": 1.22
+  },
+  "boss-monster": {
+   "age": 9,
+   "ageBox": false,
+   "best": [
+    4
+   ],
+   "bggId": 131835,
+   "bggRating": 6.278,
+   "bggVotes": 14603,
+   "good": [
+    2,
+    3,
+    4
+   ],
+   "maxP": 4,
+   "mechs": [
+    "takethat"
+   ],
+   "minP": 2,
+   "name": "Boss Monster (Big Box)",
+   "note": "Big Box edition: every Boss Monster set in one box. 5–6 players with Crash Landing.",
+   "primary": "cards",
+   "secondary": [],
+   "tMax": 30,
+   "tMin": 30,
+   "weight": 1.84
+  },
+  "briscas": {
+   "age": 9,
+   "ageBox": false,
+   "best": [],
+   "bggId": 11733,
+   "bggRating": 6.354,
+   "bggVotes": 457,
+   "good": [],
+   "maxP": 6,
+   "mechs": [],
+   "minP": 2,
+   "name": "Briscas",
+   "note": "",
+   "primary": "cards",
+   "secondary": [
+    "family",
+    "twoplayer"
+   ],
+   "tMax": 30,
+   "tMin": 30,
+   "weight": 1.54
+  },
+  "bussy-bussy-airport": {
+   "age": 4,
+   "ageBox": true,
+   "best": [],
+   "bggId": null,
+   "bggRating": null,
+   "bggVotes": 0,
+   "good": [],
+   "maxP": 4,
+   "mechs": [],
+   "minP": 2,
+   "name": "Bussy Bussy Airport",
+   "note": "",
+   "primary": "childrens",
+   "secondary": [
+    "dice"
+   ],
+   "tMax": 15,
+   "tMin": 15,
+   "weight": null
+  },
+  "call-to-adventure-stormlight": {
+   "age": 11,
+   "ageBox": false,
+   "best": [],
+   "bggId": 266993,
+   "bggRating": 7.26,
+   "bggVotes": 432,
+   "good": [],
+   "maxP": 4,
+   "mechs": [
+    "dice",
+    "deck",
+    "sets",
+    "clues"
+   ],
+   "minP": 1,
+   "name": "Call to Adventure: Stormlight",
+   "note": "",
+   "primary": "cards",
+   "secondary": [
+    "dice"
+   ],
+   "tMax": 60,
+   "tMin": 30,
+   "weight": 1.92
+  },
+  "camel-up": {
+   "age": 7,
+   "ageBox": false,
+   "best": [
+    5
+   ],
+   "bggId": 260605,
+   "bggRating": 7.648,
+   "bggVotes": 5436,
+   "good": [
+    4,
+    5,
+    6,
+    7
+   ],
+   "maxP": 8,
+   "mechs": [
+    "dice",
+    "bluff",
+    "race"
+   ],
+   "minP": 3,
+   "name": "Camel Up",
+   "note": "Second Edition (2018)",
+   "primary": "family",
+   "secondary": [
+    "dice",
+    "party"
+   ],
+   "tMax": 45,
+   "tMin": 30,
+   "weight": 1.48
+  },
+  "carcassonne": {
+   "age": 8,
+   "ageBox": false,
+   "best": [
+    2
+   ],
+   "bggId": 822,
+   "bggRating": 7.419,
+   "bggVotes": 107937,
+   "good": [
+    2,
+    3,
+    4
+   ],
+   "maxP": 5,
+   "mechs": [
+    "tiles",
+    "area"
+   ],
+   "minP": 2,
+   "name": "Carcassonne",
+   "note": "",
+   "primary": "family",
+   "secondary": [
+    "strategy",
+    "twoplayer"
+   ],
+   "tMax": 45,
+   "tMin": 30,
+   "weight": 1.91
+  },
+  "catan-dawn-of-humankind": {
+   "age": 10,
+   "ageBox": true,
+   "best": [
+    4
+   ],
+   "bggId": 358858,
+   "bggRating": 7.2,
+   "bggVotes": 420,
+   "good": [],
+   "maxP": 4,
+   "mechs": [
+    "dice",
+    "trade"
+   ],
+   "minP": 3,
+   "name": "Catan: Dawn of Humankind",
+   "note": "",
+   "primary": "strategy",
+   "secondary": [
+    "dice"
+   ],
+   "tMax": 120,
+   "tMin": 90,
+   "weight": 2.54
+  },
+  "catan-junior": {
+   "age": 5,
+   "ageBox": false,
+   "best": [],
+   "bggId": 184842,
+   "bggRating": 6.547,
+   "bggVotes": 652,
+   "good": [],
+   "maxP": 4,
+   "mechs": [
+    "dice",
+    "trade"
+   ],
+   "minP": 2,
+   "name": "Catan Junior",
+   "note": "",
+   "primary": "childrens",
+   "secondary": [
+    "family"
+   ],
+   "tMax": 30,
+   "tMin": 30,
+   "weight": 1.31
+  },
+  "catan-new-energies": {
+   "age": 10,
+   "ageBox": false,
+   "best": [
+    4
+   ],
+   "bggId": 408727,
+   "bggRating": 6.7,
+   "bggVotes": 443,
+   "good": [],
+   "maxP": 4,
+   "mechs": [
+    "dice",
+    "trade",
+    "area"
+   ],
+   "minP": 3,
+   "name": "Catan: New Energies",
+   "note": "",
+   "primary": "family",
+   "secondary": [
+    "economy"
+   ],
+   "tMax": 90,
+   "tMin": 90,
+   "weight": 2.2
+  },
+  "catan-starfarers": {
+   "age": 10,
+   "ageBox": false,
+   "best": [
+    4
+   ],
+   "bggId": 1897,
+   "bggRating": 6.807,
+   "bggVotes": 5112,
+   "good": [
+    3,
+    4
+   ],
+   "maxP": 4,
+   "mechs": [
+    "trade"
+   ],
+   "minP": 3,
+   "name": "Catan: Starfarers",
+   "note": "",
+   "primary": "strategy",
+   "secondary": [],
+   "tMax": 120,
+   "tMin": 120,
+   "weight": 2.58
+  },
+  "catan": {
+   "age": 9,
+   "ageBox": false,
+   "best": [
+    4
+   ],
+   "bggId": 13,
+   "bggRating": 7.137,
+   "bggVotes": 107141,
+   "good": [
+    3,
+    4
+   ],
+   "maxP": 4,
+   "mechs": [
+    "dice",
+    "engine",
+    "trade",
+    "routes",
+    "race"
+   ],
+   "minP": 3,
+   "name": "Catan",
+   "note": "",
+   "primary": "family",
+   "secondary": [
+    "strategy",
+    "dice",
+    "economy"
+   ],
+   "tMax": 120,
+   "tMin": 60,
+   "weight": 2.31
+  },
+  "charcuterie-the-board-game": {
+   "age": 8,
+   "ageBox": false,
+   "best": [
+    4
+   ],
+   "bggId": 360058,
+   "bggRating": 6.6,
+   "bggVotes": 681,
+   "good": [],
+   "maxP": 6,
+   "mechs": [
+    "tiles",
+    "sets"
+   ],
+   "minP": 2,
+   "name": "Charcuterie: The Board Game",
+   "note": "",
+   "primary": "family",
+   "secondary": [],
+   "tMax": 30,
+   "tMin": 10,
+   "weight": 1.73
+  },
+  "chess": {
+   "age": 7,
+   "ageBox": false,
+   "best": [
+    2
+   ],
+   "bggId": 171,
+   "bggRating": 7.151,
+   "bggVotes": 30537,
+   "good": [
+    2
+   ],
+   "maxP": 2,
+   "mechs": [],
+   "minP": 2,
+   "name": "Chess",
+   "note": "",
+   "primary": "abstract",
+   "secondary": [
+    "twoplayer"
+   ],
+   "tMax": 60,
+   "tMin": 60,
+   "weight": 3.69
+  },
+  "civilization": {
+   "age": 12,
+   "ageBox": false,
+   "best": [
+    4
+   ],
+   "bggId": 233247,
+   "bggRating": 7.287,
+   "bggVotes": 4963,
+   "good": [
+    2,
+    3,
+    4
+   ],
+   "maxP": 4,
+   "mechs": [
+    "area"
+   ],
+   "minP": 2,
+   "name": "Civilization",
+   "note": "",
+   "primary": "strategy",
+   "secondary": [
+    "economy"
+   ],
+   "tMax": 120,
+   "tMin": 60,
+   "weight": 3.08
+  },
+  "clue-conspiracy": {
+   "age": 12,
+   "ageBox": false,
+   "best": [
+    10
+   ],
+   "bggId": 391824,
+   "bggRating": 6.4,
+   "bggVotes": 257,
+   "good": [],
+   "maxP": 10,
+   "mechs": [
+    "bluff",
+    "deduce"
+   ],
+   "minP": 4,
+   "name": "Clue Conspiracy",
+   "note": "",
+   "primary": "party",
+   "secondary": [],
+   "tMax": 45,
+   "tMin": 45,
+   "weight": 2.29
+  },
+  "clue": {
+   "age": 8,
+   "ageBox": false,
+   "best": [
+    4
+   ],
+   "bggId": 1294,
+   "bggRating": 5.67,
+   "bggVotes": 18362,
+   "good": [
+    3,
+    4,
+    5,
+    6
+   ],
+   "maxP": 6,
+   "mechs": [
+    "dice",
+    "bluff",
+    "deduce"
+   ],
+   "minP": 2,
+   "name": "Clue",
+   "note": "",
+   "primary": "family",
+   "secondary": [],
+   "tMax": 45,
+   "tMin": 45,
+   "weight": 1.66
+  },
+  "codenames": {
+   "age": 10,
+   "ageBox": false,
+   "best": [
+    6
+   ],
+   "bggId": 178900,
+   "bggRating": 7.601,
+   "bggVotes": 73522,
+   "good": [
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "maxP": 8,
+   "mechs": [
+    "deduce",
+    "clues",
+    "luck"
+   ],
+   "minP": 2,
+   "name": "Codenames",
+   "note": "",
+   "primary": "party",
+   "secondary": [
+    "cards"
+   ],
+   "tMax": 15,
+   "tMin": 15,
+   "weight": 1.28
+  },
+  "coffee-roaster": {
+   "age": 11,
+   "ageBox": false,
+   "best": [
+    1
+   ],
+   "bggId": 196526,
+   "bggRating": 7.498,
+   "bggVotes": 2097,
+   "good": [
+    1
+   ],
+   "maxP": 1,
+   "mechs": [
+    "deck",
+    "deduce",
+    "luck"
+   ],
+   "minP": 1,
+   "name": "Coffee Roaster",
+   "note": "",
+   "primary": "solo",
+   "secondary": [],
+   "tMax": 30,
+   "tMin": 10,
+   "weight": 2.14
+  },
+  "compounded": {
+   "age": 11,
+   "ageBox": false,
+   "best": [
+    4
+   ],
+   "bggId": 118174,
+   "bggRating": 6.74,
+   "bggVotes": 2648,
+   "good": [
+    3,
+    4,
+    5
+   ],
+   "maxP": 5,
+   "mechs": [
+    "sets",
+    "trade"
+   ],
+   "minP": 2,
+   "name": "Compounded",
+   "note": "",
+   "primary": "strategy",
+   "secondary": [
+    "family"
+   ],
+   "tMax": 90,
+   "tMin": 30,
+   "weight": 2.43
+  },
+  "cryptid": {
+   "age": 10,
+   "ageBox": false,
+   "best": [
+    4
+   ],
+   "bggId": 246784,
+   "bggRating": 7.502,
+   "bggVotes": 9057,
+   "good": [
+    3,
+    4,
+    5
+   ],
+   "maxP": 5,
+   "mechs": [
+    "deduce"
+   ],
+   "minP": 3,
+   "name": "Cryptid",
+   "note": "",
+   "primary": "family",
+   "secondary": [],
+   "tMax": 50,
+   "tMin": 30,
+   "weight": 2.21
+  },
+  "d-d-adventure-begins": {
+   "age": 6,
+   "ageBox": false,
+   "best": [],
+   "bggId": 315196,
+   "bggRating": 6.488,
+   "bggVotes": 328,
+   "good": [],
+   "maxP": 4,
+   "mechs": [
+    "dice",
+    "takethat"
+   ],
+   "minP": 2,
+   "name": "D&D Adventure Begins",
+   "note": "",
+   "primary": "cooperative",
+   "secondary": [
+    "childrens",
+    "dice"
+   ],
+   "tMax": 60,
+   "tMin": 30,
+   "weight": 1.37
+  },
+  "daybreak": {
+   "age": 10,
+   "ageBox": true,
+   "best": [
+    2
+   ],
+   "bggId": 334986,
+   "bggRating": 7.7,
+   "bggVotes": 6762,
+   "good": [],
+   "maxP": 4,
+   "mechs": [
+    "sets",
+    "engine"
+   ],
+   "minP": 1,
+   "name": "Daybreak",
+   "note": "",
+   "primary": "cooperative",
+   "secondary": [
+    "cards",
+    "economy"
+   ],
+   "tMax": 120,
+   "tMin": 60,
+   "weight": 2.87
+  },
+  "dominos": {
+   "age": 5,
+   "ageBox": false,
+   "best": [
+    4
+   ],
+   "bggId": 2394,
+   "bggRating": 5.481,
+   "bggVotes": 6182,
+   "good": [
+    2,
+    3,
+    4
+   ],
+   "maxP": 10,
+   "mechs": [
+    "tiles"
+   ],
+   "minP": 2,
+   "name": "Dominos",
+   "note": "",
+   "primary": "family",
+   "secondary": [],
+   "tMax": 30,
+   "tMin": 30,
+   "weight": 1.38
+  },
+  "downforce": {
+   "age": 8,
+   "ageBox": false,
+   "best": [
+    3
+   ],
+   "bggId": 215311,
+   "bggRating": 7.342,
+   "bggVotes": 9452,
+   "good": [
+    3,
+    4,
+    5,
+    6
+   ],
+   "maxP": 6,
+   "mechs": [
+    "bluff",
+    "race",
+    "auction"
+   ],
+   "minP": 2,
+   "name": "Downforce",
+   "note": "",
+   "primary": "family",
+   "secondary": [],
+   "tMax": 40,
+   "tMin": 20,
+   "weight": 1.75
+  },
+  "elements-of-truth": {
+   "age": 14,
+   "ageBox": true,
+   "best": [
+    6
+   ],
+   "bggId": 458836,
+   "bggRating": 6.6,
+   "bggVotes": 8,
+   "good": [
+    8
+   ],
+   "maxP": 6,
+   "mechs": [],
+   "minP": 2,
+   "name": "Elements of Truth",
+   "note": "Only 8 BGG ratings and no BGG weight yet; placed as Beginner",
+   "primary": "party",
+   "secondary": [],
+   "tMax": 20,
+   "tMin": 20,
+   "weight": 1.5
+  },
+  "everdell-farshore": {
+   "age": 10,
+   "ageBox": true,
+   "best": [
+    2
+   ],
+   "bggId": 394106,
+   "bggRating": 7.8,
+   "bggVotes": 3336,
+   "good": [],
+   "maxP": 4,
+   "mechs": [
+    "drafting",
+    "workers",
+    "sets"
+   ],
+   "minP": 1,
+   "name": "Everdell Farshore",
+   "note": "",
+   "primary": "strategy",
+   "secondary": [
+    "cards"
+   ],
+   "tMax": 80,
+   "tMin": 40,
+   "weight": 2.8
+  },
+  "everdell": {
+   "age": 11,
+   "ageBox": false,
+   "best": [
+    3
+   ],
+   "bggId": 199792,
+   "bggRating": 8.092,
+   "bggVotes": 27925,
+   "good": [
+    2,
+    3,
+    4
+   ],
+   "maxP": 4,
+   "mechs": [
+    "drafting",
+    "workers",
+    "engine"
+   ],
+   "minP": 1,
+   "name": "Everdell",
+   "note": "",
+   "primary": "strategy",
+   "secondary": [],
+   "tMax": 80,
+   "tMin": 40,
+   "weight": 2.82
+  },
+  "exploding-kittens": {
+   "age": 8,
+   "ageBox": false,
+   "best": [
+    4
+   ],
+   "bggId": 172225,
+   "bggRating": 6.041,
+   "bggVotes": 24372,
+   "good": [
+    3,
+    4,
+    5
+   ],
+   "maxP": 5,
+   "mechs": [
+    "sets",
+    "luck",
+    "realtime",
+    "takethat"
+   ],
+   "minP": 2,
+   "name": "Exploding Kittens",
+   "note": "",
+   "primary": "cards",
+   "secondary": [
+    "party"
+   ],
+   "tMax": 15,
+   "tMin": 15,
+   "weight": 1.08
+  },
+  "flamecraft": {
+   "age": 8,
+   "ageBox": false,
+   "best": [
+    3
+   ],
+   "bggId": 336986,
+   "bggRating": 7.4,
+   "bggVotes": 22146,
+   "good": [],
+   "maxP": 5,
+   "mechs": [
+    "workers",
+    "sets"
+   ],
+   "minP": 1,
+   "name": "Flamecraft",
+   "note": "",
+   "primary": "family",
+   "secondary": [
+    "cards"
+   ],
+   "tMax": 60,
+   "tMin": 60,
+   "weight": 2.18
+  },
+  "for-sale": {
+   "age": 8,
+   "ageBox": false,
+   "best": [
+    5
+   ],
+   "bggId": 172,
+   "bggRating": 7.226,
+   "bggVotes": 25458,
+   "good": [
+    3,
+    4,
+    5,
+    6
+   ],
+   "maxP": 6,
+   "mechs": [
+    "auction"
+   ],
+   "minP": 3,
+   "name": "For Sale",
+   "note": "",
+   "primary": "cards",
+   "secondary": [
+    "economy"
+   ],
+   "tMax": 30,
+   "tMin": 30,
+   "weight": 1.26
+  },
+  "forbidden-island": {
+   "age": 7,
+   "ageBox": false,
+   "best": [
+    4
+   ],
+   "bggId": 65244,
+   "bggRating": 6.784,
+   "bggVotes": 44211,
+   "good": [
+    2,
+    3,
+    4
+   ],
+   "maxP": 4,
+   "mechs": [
+    "sets"
+   ],
+   "minP": 2,
+   "name": "Forbidden Island",
+   "note": "",
+   "primary": "cooperative",
+   "secondary": [],
+   "tMax": 30,
+   "tMin": 30,
+   "weight": 1.74
+  },
+  "herd-mentality": {
+   "age": 10,
+   "ageBox": true,
+   "best": [],
+   "bggId": 311322,
+   "bggRating": 6.979,
+   "bggVotes": 189,
+   "good": [],
+   "maxP": 10,
+   "mechs": [],
+   "minP": 4,
+   "name": "Herd Mentality",
+   "note": "",
+   "primary": "party",
+   "secondary": [],
+   "tMax": 20,
+   "tMin": 20,
+   "weight": 1
+  },
+  "horizons-of-spirit-island": {
+   "age": 14,
+   "ageBox": true,
+   "best": [
+    2
+   ],
+   "bggId": 367498,
+   "bggRating": 8.1,
+   "bggVotes": 3591,
+   "good": [],
+   "maxP": 3,
+   "mechs": [
+    "sets",
+    "area"
+   ],
+   "minP": 1,
+   "name": "Horizons of Spirit Island",
+   "note": "",
+   "primary": "cooperative",
+   "secondary": [
+    "strategy"
+   ],
+   "tMax": 120,
+   "tMin": 90,
+   "weight": 3.57
+  },
+  "hues-and-cues": {
+   "age": 6,
+   "ageBox": false,
+   "best": [],
+   "bggId": 302520,
+   "bggRating": 6.992,
+   "bggVotes": 944,
+   "good": [],
+   "maxP": 10,
+   "mechs": [
+    "clues"
+   ],
+   "minP": 3,
+   "name": "Hues and Cues",
+   "note": "",
+   "primary": "party",
+   "secondary": [],
+   "tMax": 30,
+   "tMin": 30,
+   "weight": 1.17
+  },
+  "jaipur": {
+   "age": 8,
+   "ageBox": false,
+   "best": [
+    2
+   ],
+   "bggId": 54043,
+   "bggRating": 7.503,
+   "bggVotes": 40723,
+   "good": [
+    2
+   ],
+   "maxP": 2,
+   "mechs": [
+    "drafting",
+    "sets",
+    "trade"
+   ],
+   "minP": 2,
+   "name": "Jaipur",
+   "note": "",
+   "primary": "twoplayer",
+   "secondary": [
+    "cards",
+    "economy"
+   ],
+   "tMax": 30,
+   "tMin": 30,
+   "weight": 1.48
+  },
+  "jenga": {
+   "age": 5,
+   "ageBox": false,
+   "best": [
+    4
+   ],
+   "bggId": 2452,
+   "bggRating": 5.616,
+   "bggVotes": 12527,
+   "good": [
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "maxP": 8,
+   "mechs": [
+    "realtime"
+   ],
+   "minP": 1,
+   "name": "Jenga",
+   "note": "",
+   "primary": "party",
+   "secondary": [],
+   "tMax": 20,
+   "tMin": 20,
+   "weight": 1.11
+  },
+  "king-of-tokyo": {
+   "age": 7,
+   "ageBox": false,
+   "best": [
+    4
+   ],
+   "bggId": 70323,
+   "bggRating": 7.171,
+   "bggVotes": 60654,
+   "good": [
+    3,
+    4,
+    5,
+    6
+   ],
+   "maxP": 6,
+   "mechs": [
+    "dice",
+    "drafting",
+    "luck",
+    "takethat"
+   ],
+   "minP": 2,
+   "name": "King of Tokyo",
+   "note": "",
+   "primary": "dice",
+   "secondary": [
+    "family"
+   ],
+   "tMax": 30,
+   "tMin": 30,
+   "weight": 1.49
+  },
+  "lords-of-waterdeep": {
+   "age": 10,
+   "ageBox": false,
+   "best": [
+    4
+   ],
+   "bggId": 110327,
+   "bggRating": 7.749,
+   "bggVotes": 48355,
+   "good": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "maxP": 5,
+   "mechs": [
+    "workers",
+    "sets",
+    "bluff",
+    "takethat"
+   ],
+   "minP": 2,
+   "name": "Lords of Waterdeep",
+   "note": "",
+   "primary": "strategy",
+   "secondary": [],
+   "tMax": 120,
+   "tMin": 60,
+   "weight": 2.46
+  },
+  "lost-ruins-of-arnak": {
+   "age": 11,
+   "ageBox": false,
+   "best": [
+    3
+   ],
+   "bggId": 312484,
+   "bggRating": 8.103,
+   "bggVotes": 15366,
+   "good": [
+    2,
+    3,
+    4
+   ],
+   "maxP": 4,
+   "mechs": [
+    "drafting",
+    "deck",
+    "workers"
+   ],
+   "minP": 1,
+   "name": "Lost Ruins of Arnak",
+   "note": "",
+   "primary": "strategy",
+   "secondary": [
+    "cards"
+   ],
+   "tMax": 120,
+   "tMin": 30,
+   "weight": 2.86
+  },
+  "machi-koro": {
+   "age": 8,
+   "ageBox": false,
+   "best": [
+    4
+   ],
+   "bggId": 143884,
+   "bggRating": 6.624,
+   "bggVotes": 28153,
+   "good": [
+    2,
+    3,
+    4
+   ],
+   "maxP": 4,
+   "mechs": [
+    "dice",
+    "engine"
+   ],
+   "minP": 2,
+   "name": "Machi Koro",
+   "note": "",
+   "primary": "cards",
+   "secondary": [
+    "dice",
+    "family"
+   ],
+   "tMax": 30,
+   "tMin": 30,
+   "weight": 1.53
+  },
+  "magical-athlete": {
+   "age": 6,
+   "ageBox": true,
+   "best": [
+    6
+   ],
+   "bggId": 454103,
+   "bggRating": 7.8,
+   "bggVotes": 7833,
+   "good": [],
+   "maxP": 6,
+   "mechs": [
+    "dice",
+    "drafting",
+    "race"
+   ],
+   "minP": 2,
+   "name": "Magical Athlete",
+   "note": "2025 edition",
+   "primary": "family",
+   "secondary": [
+    "dice"
+   ],
+   "tMax": 30,
+   "tMin": 30,
+   "weight": 1.17
+  },
+  "mancala": {
+   "age": 6,
+   "ageBox": false,
+   "best": [
+    2
+   ],
+   "bggId": 2448,
+   "bggRating": 5.935,
+   "bggVotes": 6186,
+   "good": [
+    2
+   ],
+   "maxP": 2,
+   "mechs": [],
+   "minP": 2,
+   "name": "Mancala",
+   "note": "",
+   "primary": "twoplayer",
+   "secondary": [
+    "family"
+   ],
+   "tMax": 10,
+   "tMin": 10,
+   "weight": 1.63
+  },
+  "marrakech": {
+   "age": 6,
+   "ageBox": false,
+   "best": [
+    4
+   ],
+   "bggId": 29223,
+   "bggRating": 6.679,
+   "bggVotes": 4044,
+   "good": [
+    2,
+    3,
+    4
+   ],
+   "maxP": 4,
+   "mechs": [
+    "dice",
+    "tiles",
+    "area"
+   ],
+   "minP": 2,
+   "name": "Marrakech",
+   "note": "",
+   "primary": "family",
+   "secondary": [],
+   "tMax": 30,
+   "tMin": 30,
+   "weight": 1.37
+  },
+  "mastermind": {
+   "age": 8,
+   "ageBox": false,
+   "best": [
+    2
+   ],
+   "bggId": 2392,
+   "bggRating": 5.568,
+   "bggVotes": 6464,
+   "good": [
+    2
+   ],
+   "maxP": 2,
+   "mechs": [
+    "deduce"
+   ],
+   "minP": 2,
+   "name": "Mastermind",
+   "note": "",
+   "primary": "twoplayer",
+   "secondary": [
+    "abstract"
+   ],
+   "tMax": 20,
+   "tMin": 20,
+   "weight": 1.8
+  },
+  "monopoly": {
+   "age": 8,
+   "ageBox": false,
+   "best": [
+    4
+   ],
+   "bggId": 1406,
+   "bggRating": 4.374,
+   "bggVotes": 30593,
+   "good": [
+    3,
+    4,
+    5
+   ],
+   "maxP": 8,
+   "mechs": [
+    "dice",
+    "sets",
+    "engine",
+    "trade",
+    "race",
+    "auction",
+    "takethat"
+   ],
+   "minP": 2,
+   "name": "Monopoly",
+   "note": "",
+   "primary": "family",
+   "secondary": [
+    "economy",
+    "dice"
+   ],
+   "tMax": 180,
+   "tMin": 60,
+   "weight": 1.64
+  },
+  "mycelia": {
+   "age": 8,
+   "ageBox": false,
+   "best": [
+    2
+   ],
+   "bggId": 392023,
+   "bggRating": 7.4,
+   "bggVotes": 3028,
+   "good": [],
+   "maxP": 4,
+   "mechs": [
+    "deck",
+    "race"
+   ],
+   "minP": 1,
+   "name": "Mycelia",
+   "note": "",
+   "primary": "cards",
+   "secondary": [],
+   "tMax": 45,
+   "tMin": 45,
+   "weight": 1.89
+  },
+  "mysterium": {
+   "age": 9,
+   "ageBox": false,
+   "best": [
+    5
+   ],
+   "bggId": 181304,
+   "bggRating": 7.285,
+   "bggVotes": 34812,
+   "good": [
+    4,
+    5,
+    6,
+    7
+   ],
+   "maxP": 7,
+   "mechs": [
+    "deduce",
+    "clues"
+   ],
+   "minP": 2,
+   "name": "Mysterium",
+   "note": "",
+   "primary": "cooperative",
+   "secondary": [
+    "party"
+   ],
+   "tMax": 42,
+   "tMin": 42,
+   "weight": 1.91
+  },
+  "mystic-market": {
+   "age": 7,
+   "ageBox": false,
+   "best": [],
+   "bggId": 287322,
+   "bggRating": 7.242,
+   "bggVotes": 476,
+   "good": [],
+   "maxP": 4,
+   "mechs": [
+    "drafting",
+    "sets",
+    "trade",
+    "takethat"
+   ],
+   "minP": 2,
+   "name": "Mystic Market",
+   "note": "",
+   "primary": "cards",
+   "secondary": [],
+   "tMax": 45,
+   "tMin": 30,
+   "weight": 1.67
+  },
+  "nine-mens-morris": {
+   "age": 7,
+   "ageBox": false,
+   "best": [],
+   "bggId": 3886,
+   "bggRating": 5.355,
+   "bggVotes": 1389,
+   "good": [],
+   "maxP": 2,
+   "mechs": [
+    "tiles"
+   ],
+   "minP": 2,
+   "name": "Nine Mens Morris",
+   "note": "",
+   "primary": "twoplayer",
+   "secondary": [
+    "strategy"
+   ],
+   "tMax": 20,
+   "tMin": 20,
+   "weight": 1.83
+  },
+  "obscurio": {
+   "age": 9,
+   "ageBox": false,
+   "best": [
+    6
+   ],
+   "bggId": 273477,
+   "bggRating": 7.23,
+   "bggVotes": 2293,
+   "good": [
+    5,
+    6,
+    7,
+    8
+   ],
+   "maxP": 8,
+   "mechs": [
+    "bluff",
+    "deduce",
+    "clues"
+   ],
+   "minP": 2,
+   "name": "Obscurio",
+   "note": "",
+   "primary": "cooperative",
+   "secondary": [
+    "party"
+   ],
+   "tMax": 40,
+   "tMin": 40,
+   "weight": 1.93
+  },
+  "oceanos": {
+   "age": 7,
+   "ageBox": false,
+   "best": [],
+   "bggId": 192860,
+   "bggRating": 6.84,
+   "bggVotes": 3042,
+   "good": [],
+   "maxP": 5,
+   "mechs": [
+    "drafting",
+    "sets"
+   ],
+   "minP": 2,
+   "name": "Oceanos",
+   "note": "",
+   "primary": "family",
+   "secondary": [
+    "cards"
+   ],
+   "tMax": 45,
+   "tMin": 30,
+   "weight": 1.82
+  },
+  "one-card-dungeon": {
+   "age": 8,
+   "ageBox": false,
+   "best": [],
+   "bggId": 319263,
+   "bggRating": 7.311,
+   "bggVotes": 63,
+   "good": [],
+   "maxP": 1,
+   "mechs": [
+    "dice"
+   ],
+   "minP": 1,
+   "name": "One Card Dungeon",
+   "note": "",
+   "primary": "solo",
+   "secondary": [
+    "dice"
+   ],
+   "tMax": 60,
+   "tMin": 15,
+   "weight": 1.5
+  },
+  "othello": {
+   "age": 7,
+   "ageBox": false,
+   "best": [
+    2
+   ],
+   "bggId": 2389,
+   "bggRating": 6.112,
+   "bggVotes": 7406,
+   "good": [
+    2
+   ],
+   "maxP": 2,
+   "mechs": [
+    "tiles"
+   ],
+   "minP": 2,
+   "name": "Othello",
+   "note": "",
+   "primary": "twoplayer",
+   "secondary": [
+    "strategy"
+   ],
+   "tMax": 30,
+   "tMin": 30,
+   "weight": 2.09
+  },
+  "pandemic": {
+   "age": 10,
+   "ageBox": false,
+   "best": [
+    4
+   ],
+   "bggId": 30549,
+   "bggRating": 7.591,
+   "bggVotes": 108101,
+   "good": [
+    2,
+    3,
+    4
+   ],
+   "maxP": 4,
+   "mechs": [
+    "sets",
+    "trade"
+   ],
+   "minP": 2,
+   "name": "Pandemic",
+   "note": "",
+   "primary": "cooperative",
+   "secondary": [
+    "strategy",
+    "cards"
+   ],
+   "tMax": 45,
+   "tMin": 45,
+   "weight": 2.41
+  },
+  "planet": {
+   "age": 7,
+   "ageBox": false,
+   "best": [
+    4
+   ],
+   "bggId": 252929,
+   "bggRating": 6.744,
+   "bggVotes": 3915,
+   "good": [
+    2,
+    3,
+    4
+   ],
+   "maxP": 4,
+   "mechs": [
+    "drafting",
+    "tiles"
+   ],
+   "minP": 2,
+   "name": "Planet",
+   "note": "",
+   "primary": "family",
+   "secondary": [],
+   "tMax": 45,
+   "tMin": 30,
+   "weight": 1.62
+  },
+  "planted": {
+   "age": 10,
+   "ageBox": true,
+   "best": [
+    4
+   ],
+   "bggId": 365104,
+   "bggRating": 7.2,
+   "bggVotes": 3410,
+   "good": [],
+   "maxP": 5,
+   "mechs": [
+    "drafting",
+    "sets"
+   ],
+   "minP": 2,
+   "name": "Planted",
+   "note": "",
+   "primary": "family",
+   "secondary": [],
+   "tMax": 30,
+   "tMin": 20,
+   "weight": 1.7
+  },
+  "poker": {
+   "age": 13,
+   "ageBox": false,
+   "best": [
+    6
+   ],
+   "bggId": 1115,
+   "bggRating": 6.719,
+   "bggVotes": 9687,
+   "good": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "maxP": 10,
+   "mechs": [
+    "sets",
+    "bluff",
+    "takethat"
+   ],
+   "minP": 2,
+   "name": "Poker",
+   "note": "",
+   "primary": "cards",
+   "secondary": [
+    "strategy",
+    "party"
+   ],
+   "tMax": 60,
+   "tMin": 60,
+   "weight": 2.45
+  },
+  "polarity": {
+   "age": 8,
+   "ageBox": false,
+   "best": [],
+   "bggId": 380,
+   "bggRating": 6.365,
+   "bggVotes": 1741,
+   "good": [],
+   "maxP": 4,
+   "mechs": [
+    "realtime"
+   ],
+   "minP": 2,
+   "name": "Polarity",
+   "note": "",
+   "primary": "twoplayer",
+   "secondary": [
+    "family"
+   ],
+   "tMax": 20,
+   "tMin": 20,
+   "weight": 1.68
+  },
+  "puerto-rico": {
+   "age": 12,
+   "ageBox": false,
+   "best": [
+    4
+   ],
+   "bggId": 3076,
+   "bggRating": 7.969,
+   "bggVotes": 65187,
+   "good": [
+    3,
+    4,
+    5
+   ],
+   "maxP": 5,
+   "mechs": [
+    "engine"
+   ],
+   "minP": 3,
+   "name": "Puerto Rico",
+   "note": "",
+   "primary": "economy",
+   "secondary": [
+    "strategy"
+   ],
+   "tMax": 150,
+   "tMin": 90,
+   "weight": 3.28
+  },
+  "qawale": {
+   "age": 6,
+   "ageBox": false,
+   "best": [
+    2
+   ],
+   "bggId": 368465,
+   "bggRating": 6.9,
+   "bggVotes": 1103,
+   "good": [],
+   "maxP": 2,
+   "mechs": [
+    "tiles"
+   ],
+   "minP": 2,
+   "name": "Qawale",
+   "note": "",
+   "primary": "abstract",
+   "secondary": [
+    "twoplayer"
+   ],
+   "tMax": 15,
+   "tMin": 15,
+   "weight": 1.17
+  },
+  "quarto": {
+   "age": 8,
+   "ageBox": false,
+   "best": [
+    2
+   ],
+   "bggId": 681,
+   "bggRating": 6.862,
+   "bggVotes": 6277,
+   "good": [
+    2
+   ],
+   "maxP": 2,
+   "mechs": [
+    "tiles"
+   ],
+   "minP": 2,
+   "name": "Quarto",
+   "note": "",
+   "primary": "abstract",
+   "secondary": [
+    "twoplayer"
+   ],
+   "tMax": 20,
+   "tMin": 20,
+   "weight": 1.93
+  },
+  "quorridor": {
+   "age": 7,
+   "ageBox": false,
+   "best": [
+    2
+   ],
+   "bggId": 624,
+   "bggRating": 6.663,
+   "bggVotes": 6823,
+   "good": [
+    2,
+    4
+   ],
+   "maxP": 4,
+   "mechs": [],
+   "minP": 2,
+   "name": "Quorridor",
+   "note": "",
+   "primary": "abstract",
+   "secondary": [
+    "twoplayer"
+   ],
+   "tMax": 15,
+   "tMin": 15,
+   "weight": 1.87
+  },
+  "race-to-the-raft": {
+   "age": 8,
+   "ageBox": true,
+   "best": [
+    2
+   ],
+   "bggId": 367375,
+   "bggRating": 7.2,
+   "bggVotes": 996,
+   "good": [],
+   "maxP": 4,
+   "mechs": [
+    "tiles",
+    "luck"
+   ],
+   "minP": 1,
+   "name": "Race to the Raft",
+   "note": "",
+   "primary": "cooperative",
+   "secondary": [
+    "family"
+   ],
+   "tMax": 60,
+   "tMin": 40,
+   "weight": 2.1
+  },
+  "really-loud-librarians": {
+   "age": 8,
+   "ageBox": true,
+   "best": [
+    4
+   ],
+   "bggId": 378367,
+   "bggRating": 6,
+   "bggVotes": 604,
+   "good": [],
+   "maxP": 12,
+   "mechs": [
+    "race",
+    "realtime"
+   ],
+   "minP": 2,
+   "name": "Really Loud Librarians",
+   "note": "",
+   "primary": "party",
+   "secondary": [],
+   "tMax": 20,
+   "tMin": 15,
+   "weight": 1.2
+  },
+  "risk-tlotr": {
+   "age": 10,
+   "ageBox": false,
+   "best": [
+    4
+   ],
+   "bggId": 8107,
+   "bggRating": 6.514,
+   "bggVotes": 3531,
+   "good": [
+    2,
+    3,
+    4
+   ],
+   "maxP": 4,
+   "mechs": [
+    "dice",
+    "area"
+   ],
+   "minP": 2,
+   "name": "Risk: TLOTR",
+   "note": "",
+   "primary": "family",
+   "secondary": [
+    "strategy",
+    "dice"
+   ],
+   "tMax": 180,
+   "tMin": 180,
+   "weight": 2.36
+  },
+  "rivals-for-catan": {
+   "age": 10,
+   "ageBox": false,
+   "best": [
+    2
+   ],
+   "bggId": 66056,
+   "bggRating": 6.968,
+   "bggVotes": 6287,
+   "good": [
+    2
+   ],
+   "maxP": 2,
+   "mechs": [
+    "dice",
+    "drafting"
+   ],
+   "minP": 2,
+   "name": "Rivals for Catan",
+   "note": "",
+   "primary": "twoplayer",
+   "secondary": [
+    "strategy"
+   ],
+   "tMax": 120,
+   "tMin": 45,
+   "weight": 2.32
+  },
+  "rummikub": {
+   "age": 7,
+   "ageBox": false,
+   "best": [
+    4
+   ],
+   "bggId": 811,
+   "bggRating": 6.401,
+   "bggVotes": 14293,
+   "good": [
+    2,
+    3,
+    4
+   ],
+   "maxP": 4,
+   "mechs": [
+    "tiles",
+    "sets"
+   ],
+   "minP": 2,
+   "name": "Rummikub",
+   "note": "",
+   "primary": "family",
+   "secondary": [],
+   "tMax": 60,
+   "tMin": 60,
+   "weight": 1.74
+  },
+  "sagrada": {
+   "age": 9,
+   "ageBox": false,
+   "best": [
+    2
+   ],
+   "bggId": 199561,
+   "bggRating": 7.517,
+   "bggVotes": 29813,
+   "good": [
+    2,
+    3,
+    4
+   ],
+   "maxP": 4,
+   "mechs": [
+    "dice",
+    "drafting",
+    "tiles",
+    "sets"
+   ],
+   "minP": 1,
+   "name": "Sagrada",
+   "note": "",
+   "primary": "dice",
+   "secondary": [
+    "family"
+   ],
+   "tMax": 45,
+   "tMin": 30,
+   "weight": 1.92
+  },
+  "santorini": {
+   "age": 7,
+   "ageBox": false,
+   "best": [
+    2
+   ],
+   "bggId": 194655,
+   "bggRating": 7.444,
+   "bggVotes": 31088,
+   "good": [
+    2
+   ],
+   "maxP": 4,
+   "mechs": [
+    "tiles",
+    "race"
+   ],
+   "minP": 2,
+   "name": "Santorini",
+   "note": "",
+   "primary": "abstract",
+   "secondary": [
+    "twoplayer"
+   ],
+   "tMax": 20,
+   "tMin": 20,
+   "weight": 1.72
+  },
+  "shifting-stones": {
+   "age": 8,
+   "ageBox": true,
+   "best": [],
+   "bggId": 302280,
+   "bggRating": 7.075,
+   "bggVotes": 328,
+   "good": [],
+   "maxP": 5,
+   "mechs": [
+    "tiles"
+   ],
+   "minP": 1,
+   "name": "Shifting Stones",
+   "note": "",
+   "primary": "abstract",
+   "secondary": [],
+   "tMax": 20,
+   "tMin": 20,
+   "weight": 1.33
+  },
+  "shut-the-box": {
+   "age": 5,
+   "ageBox": false,
+   "best": [],
+   "bggId": 9851,
+   "bggRating": 5.115,
+   "bggVotes": 1260,
+   "good": [],
+   "maxP": 4,
+   "mechs": [
+    "dice"
+   ],
+   "minP": 2,
+   "name": "Shut the Box",
+   "note": "",
+   "primary": "dice",
+   "secondary": [],
+   "tMax": 30,
+   "tMin": 30,
+   "weight": 1.08
+  },
+  "splendor": {
+   "age": 8,
+   "ageBox": false,
+   "best": [
+    3
+   ],
+   "bggId": 148228,
+   "bggRating": 7.44,
+   "bggVotes": 63986,
+   "good": [
+    2,
+    3,
+    4
+   ],
+   "maxP": 4,
+   "mechs": [
+    "drafting",
+    "sets",
+    "engine",
+    "race"
+   ],
+   "minP": 2,
+   "name": "Splendor",
+   "note": "",
+   "primary": "cards",
+   "secondary": [
+    "family"
+   ],
+   "tMax": 30,
+   "tMin": 30,
+   "weight": 1.8
+  },
+  "stratego": {
+   "age": 8,
+   "ageBox": false,
+   "best": [
+    2
+   ],
+   "bggId": 1917,
+   "bggRating": 6.101,
+   "bggVotes": 14390,
+   "good": [
+    2
+   ],
+   "maxP": 2,
+   "mechs": [
+    "bluff",
+    "deduce"
+   ],
+   "minP": 2,
+   "name": "Stratego",
+   "note": "",
+   "primary": "twoplayer",
+   "secondary": [
+    "abstract"
+   ],
+   "tMax": 45,
+   "tMin": 45,
+   "weight": 1.85
+  },
+  "sum-swamp": {
+   "age": 4,
+   "ageBox": false,
+   "best": [],
+   "bggId": 11585,
+   "bggRating": 5.484,
+   "bggVotes": 97,
+   "good": [],
+   "maxP": 4,
+   "mechs": [
+    "dice"
+   ],
+   "minP": 2,
+   "name": "Sum Swamp",
+   "note": "",
+   "primary": "childrens",
+   "secondary": [
+    "dice"
+   ],
+   "tMax": 20,
+   "tMin": 20,
+   "weight": 1
+  },
+  "super-boss-monster": {
+   "age": 13,
+   "ageBox": true,
+   "best": [
+    4
+   ],
+   "bggId": 415524,
+   "bggRating": 7.3,
+   "bggVotes": 549,
+   "good": [],
+   "maxP": 4,
+   "mechs": [
+    "drafting",
+    "workers",
+    "takethat"
+   ],
+   "minP": 1,
+   "name": "Super Boss Monster",
+   "note": "",
+   "primary": "cards",
+   "secondary": [],
+   "tMax": 30,
+   "tMin": 30,
+   "weight": 2.38
+  },
+  "sushi-go-spin-some-for-dim-sum": {
+   "age": 8,
+   "ageBox": true,
+   "best": [
+    3
+   ],
+   "bggId": 392611,
+   "bggRating": 6.2,
+   "bggVotes": 660,
+   "good": [],
+   "maxP": 6,
+   "mechs": [
+    "drafting",
+    "sets"
+   ],
+   "minP": 2,
+   "name": "Sushi Go! Spin Some for Dim Sum",
+   "note": "",
+   "primary": "family",
+   "secondary": [],
+   "tMax": 20,
+   "tMin": 20,
+   "weight": 1.2
+  },
+  "taco-vs-burrito": {
+   "age": 6,
+   "ageBox": false,
+   "best": [],
+   "bggId": 249816,
+   "bggRating": 5.425,
+   "bggVotes": 145,
+   "good": [],
+   "maxP": 4,
+   "mechs": [
+    "takethat"
+   ],
+   "minP": 2,
+   "name": "Taco vs Burrito",
+   "note": "",
+   "primary": "cards",
+   "secondary": [],
+   "tMax": 45,
+   "tMin": 15,
+   "weight": 1
+  },
+  "takenoko": {
+   "age": 8,
+   "ageBox": false,
+   "best": [
+    3
+   ],
+   "bggId": 70919,
+   "bggRating": 7.26,
+   "bggVotes": 37651,
+   "good": [
+    2,
+    3,
+    4
+   ],
+   "maxP": 4,
+   "mechs": [
+    "dice",
+    "tiles",
+    "sets",
+    "routes"
+   ],
+   "minP": 2,
+   "name": "Takenoko",
+   "note": "",
+   "primary": "family",
+   "secondary": [
+    "dice"
+   ],
+   "tMax": 45,
+   "tMin": 45,
+   "weight": 1.98
+  },
+  "the-chameleon": {
+   "age": 10,
+   "ageBox": false,
+   "best": [
+    6
+   ],
+   "bggId": 227072,
+   "bggRating": 6.65,
+   "bggVotes": 2683,
+   "good": [
+    5,
+    6,
+    7
+   ],
+   "maxP": 8,
+   "mechs": [
+    "bluff",
+    "deduce",
+    "clues"
+   ],
+   "minP": 3,
+   "name": "The Chameleon",
+   "note": "",
+   "primary": "party",
+   "secondary": [
+    "cards"
+   ],
+   "tMax": 15,
+   "tMin": 15,
+   "weight": 1.05
+  },
+  "the-isle-of-cats": {
+   "age": 8,
+   "ageBox": false,
+   "best": [
+    3
+   ],
+   "bggId": 281259,
+   "bggRating": 7.932,
+   "bggVotes": 10611,
+   "good": [
+    2,
+    3,
+    4
+   ],
+   "maxP": 4,
+   "mechs": [
+    "drafting",
+    "tiles",
+    "sets",
+    "engine"
+   ],
+   "minP": 1,
+   "name": "The Isle of Cats",
+   "note": "With Kittens + Beasts, Boat Pack and Late Arrivals (5-6 players)",
+   "primary": "family",
+   "secondary": [
+    "cards"
+   ],
+   "tMax": 90,
+   "tMin": 60,
+   "weight": 2.3
+  },
+  "the-resistance-avalon": {
+   "age": 12,
+   "ageBox": false,
+   "best": [
+    7
+   ],
+   "bggId": 128882,
+   "bggRating": 7.564,
+   "bggVotes": 28600,
+   "good": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "maxP": 10,
+   "mechs": [
+    "trade",
+    "bluff",
+    "deduce"
+   ],
+   "minP": 5,
+   "name": "The Resistance: Avalon",
+   "note": "",
+   "primary": "cards",
+   "secondary": [
+    "party"
+   ],
+   "tMax": 30,
+   "tMin": 30,
+   "weight": 1.76
+  },
+  "the-resistance": {
+   "age": 11,
+   "ageBox": false,
+   "best": [
+    7
+   ],
+   "bggId": 41114,
+   "bggRating": 7.269,
+   "bggVotes": 37175,
+   "good": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "maxP": 10,
+   "mechs": [
+    "trade",
+    "bluff",
+    "deduce"
+   ],
+   "minP": 5,
+   "name": "The Resistance",
+   "note": "",
+   "primary": "party",
+   "secondary": [
+    "cards"
+   ],
+   "tMax": 30,
+   "tMin": 30,
+   "weight": 1.6
+  },
+  "ticket-to-ride-first-journey": {
+   "age": 6,
+   "ageBox": false,
+   "best": [],
+   "bggId": 205125,
+   "bggRating": 6.918,
+   "bggVotes": 1699,
+   "good": [],
+   "maxP": 4,
+   "mechs": [
+    "sets",
+    "routes"
+   ],
+   "minP": 2,
+   "name": "Ticket to Ride First Journey",
+   "note": "",
+   "primary": "childrens",
+   "secondary": [
+    "cards"
+   ],
+   "tMax": 30,
+   "tMin": 15,
+   "weight": 1.5
+  },
+  "ticket-to-ride-new-york": {
+   "age": 7,
+   "ageBox": false,
+   "best": [
+    2
+   ],
+   "bggId": 253284,
+   "bggRating": 6.991,
+   "bggVotes": 5247,
+   "good": [
+    2,
+    3,
+    4
+   ],
+   "maxP": 4,
+   "mechs": [
+    "drafting",
+    "sets",
+    "routes"
+   ],
+   "minP": 2,
+   "name": "Ticket to Ride New York",
+   "note": "",
+   "primary": "cards",
+   "secondary": [
+    "family"
+   ],
+   "tMax": 15,
+   "tMin": 10,
+   "weight": 1.25
+  },
+  "ticket-to-ride": {
+   "age": 8,
+   "ageBox": false,
+   "best": [
+    4
+   ],
+   "bggId": 9209,
+   "bggRating": 7.415,
+   "bggVotes": 75531,
+   "good": [
+    2,
+    3,
+    4,
+    5
+   ],
+   "maxP": 5,
+   "mechs": [
+    "drafting",
+    "sets",
+    "routes",
+    "luck"
+   ],
+   "minP": 2,
+   "name": "Ticket to Ride",
+   "note": "",
+   "primary": "cards",
+   "secondary": [
+    "family"
+   ],
+   "tMax": 60,
+   "tMin": 30,
+   "weight": 1.84
+  },
+  "tokyo-highway": {
+   "age": 8,
+   "ageBox": false,
+   "best": [],
+   "bggId": 215463,
+   "bggRating": 6.737,
+   "bggVotes": 1763,
+   "good": [],
+   "maxP": 2,
+   "mechs": [
+    "routes",
+    "realtime"
+   ],
+   "minP": 2,
+   "name": "Tokyo Highway",
+   "note": "",
+   "primary": "twoplayer",
+   "secondary": [],
+   "tMax": 50,
+   "tMin": 30,
+   "weight": 1.48
+  },
+  "tsuro": {
+   "age": 6,
+   "ageBox": false,
+   "best": [
+    4
+   ],
+   "bggId": 16992,
+   "bggRating": 6.672,
+   "bggVotes": 24482,
+   "good": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "maxP": 8,
+   "mechs": [
+    "tiles",
+    "routes",
+    "takethat"
+   ],
+   "minP": 2,
+   "name": "Tsuro",
+   "note": "",
+   "primary": "family",
+   "secondary": [],
+   "tMax": 20,
+   "tMin": 15,
+   "weight": 1.23
+  },
+  "ultimate-werewolf": {
+   "age": 14,
+   "ageBox": false,
+   "best": [],
+   "bggId": 152242,
+   "bggRating": 7.094,
+   "bggVotes": 1723,
+   "good": [],
+   "maxP": 30,
+   "mechs": [
+    "trade",
+    "bluff",
+    "deduce",
+    "takethat"
+   ],
+   "minP": 5,
+   "name": "Ultimate Werewolf",
+   "note": "",
+   "primary": "party",
+   "secondary": [],
+   "tMax": 30,
+   "tMin": 30,
+   "weight": 1.49
+  },
+  "um-actually": {
+   "age": 12,
+   "ageBox": true,
+   "best": [
+    4
+   ],
+   "bggId": 338521,
+   "bggRating": 6.7,
+   "bggVotes": 283,
+   "good": [],
+   "maxP": 6,
+   "mechs": [],
+   "minP": 3,
+   "name": "Um, Actually",
+   "note": "",
+   "primary": "party",
+   "secondary": [],
+   "tMax": 25,
+   "tMin": 25,
+   "weight": 1.63
+  },
+  "uno": {
+   "age": 5,
+   "ageBox": false,
+   "best": [
+    4
+   ],
+   "bggId": 2223,
+   "bggRating": 5.415,
+   "bggVotes": 22901,
+   "good": [
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "maxP": 10,
+   "mechs": [
+    "takethat"
+   ],
+   "minP": 2,
+   "name": "Uno",
+   "note": "",
+   "primary": "cards",
+   "secondary": [
+    "party"
+   ],
+   "tMax": 30,
+   "tMin": 30,
+   "weight": 1.11
+  },
+  "wavelength": {
+   "age": 10,
+   "ageBox": false,
+   "best": [
+    6
+   ],
+   "bggId": 262543,
+   "bggRating": 7.45,
+   "bggVotes": 5975,
+   "good": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "maxP": 12,
+   "mechs": [
+    "bluff",
+    "clues",
+    "race"
+   ],
+   "minP": 2,
+   "name": "Wavelength",
+   "note": "",
+   "primary": "party",
+   "secondary": [],
+   "tMax": 45,
+   "tMin": 30,
+   "weight": 1.13
+  },
+  "when-i-dream": {
+   "age": 8,
+   "ageBox": false,
+   "best": [
+    6
+   ],
+   "bggId": 198454,
+   "bggRating": 7.048,
+   "bggVotes": 4465,
+   "good": [
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "maxP": 10,
+   "mechs": [
+    "bluff",
+    "deduce",
+    "clues",
+    "realtime"
+   ],
+   "minP": 4,
+   "name": "When I Dream",
+   "note": "",
+   "primary": "party",
+   "secondary": [],
+   "tMax": 40,
+   "tMin": 20,
+   "weight": 1.19
+  },
+  "wikipedia-trivia": {
+   "age": 14,
+   "ageBox": false,
+   "best": [],
+   "bggId": 180459,
+   "bggRating": 5.216,
+   "bggVotes": 181,
+   "good": [],
+   "maxP": 4,
+   "mechs": [],
+   "minP": 2,
+   "name": "Wikipedia Trivia",
+   "note": "",
+   "primary": "party",
+   "secondary": [],
+   "tMax": 30,
+   "tMin": 30,
+   "weight": 1.33
+  },
+  "wingspan": {
+   "age": 9,
+   "ageBox": false,
+   "best": [
+    3
+   ],
+   "bggId": 266192,
+   "bggRating": 8.099,
+   "bggVotes": 54404,
+   "good": [
+    2,
+    3,
+    4
+   ],
+   "maxP": 5,
+   "mechs": [
+    "dice",
+    "drafting",
+    "sets",
+    "engine"
+   ],
+   "minP": 1,
+   "name": "Wingspan",
+   "note": "",
+   "primary": "strategy",
+   "secondary": [
+    "cards"
+   ],
+   "tMax": 70,
+   "tMin": 40,
+   "weight": 2.44
+  },
+  "wits-wagers-party": {
+   "age": 11,
+   "ageBox": false,
+   "best": [],
+   "bggId": 123239,
+   "bggRating": 6.914,
+   "bggVotes": 2190,
+   "good": [],
+   "maxP": 18,
+   "mechs": [
+    "bluff"
+   ],
+   "minP": 4,
+   "name": "Wits & Wagers Party",
+   "note": "",
+   "primary": "party",
+   "secondary": [],
+   "tMax": 25,
+   "tMin": 25,
+   "weight": 1.13
+  },
+  "wyrmspan": {
+   "age": 12,
+   "ageBox": false,
+   "best": [
+    3
+   ],
+   "bggId": 410201,
+   "bggRating": 7.9,
+   "bggVotes": 16800,
+   "good": [],
+   "maxP": 5,
+   "mechs": [
+    "drafting",
+    "engine",
+    "race"
+   ],
+   "minP": 1,
+   "name": "Wyrmspan",
+   "note": "",
+   "primary": "strategy",
+   "secondary": [
+    "cards"
+   ],
+   "tMax": 90,
+   "tMin": 90,
+   "weight": 2.82
+  },
+  "ziggurat": {
+   "age": 6,
+   "ageBox": false,
+   "best": [
+    4
+   ],
+   "bggId": 415197,
+   "bggRating": 7.1,
+   "bggVotes": 269,
+   "good": [],
+   "maxP": 4,
+   "mechs": [],
+   "minP": 2,
+   "name": "Ziggurat",
+   "note": "",
+   "primary": "cooperative",
+   "secondary": [
+    "family"
+   ],
+   "tMax": 45,
+   "tMin": 45,
+   "weight": 1.57
+  }
+ },
+ "expansions": {
+  "azul-glazed-pavilion": {
+   "base": "azul",
+   "how": "",
+   "name": "Glazed Pavilion",
+   "note": "new boards and scoring",
+   "short": "Glazed Pavilion"
+  },
+  "boss-monster-crash-landing": {
+   "base": "boss-monster",
+   "how": "Add the Crash Landing cards for 5 or 6 players.",
+   "maxP": 6,
+   "minP": 5,
+   "name": "Crash Landing (5–6 player expansion)",
+   "note": "5–6 players",
+   "short": "Crash Landing 5–6"
+  },
+  "boss-monster-implements-of-destruction": {
+   "base": "boss-monster",
+   "how": "",
+   "name": "Implements of Destruction",
+   "note": "new Bosses and Items; Explorer Items for 5–6 players",
+   "short": "Implements of Destruction"
+  },
+  "boss-monster-lost-levels": {
+   "base": "boss-monster",
+   "how": "",
+   "name": "Lost Levels (mini-expansion)",
+   "note": "mini card pack",
+   "short": "Lost Levels"
+  },
+  "boss-monster-paper-pixels": {
+   "base": "boss-monster",
+   "how": "",
+   "name": "Paper & Pixels (mini-expansion)",
+   "note": "mini card pack",
+   "short": "Paper & Pixels"
+  },
+  "boss-monster-rise-of-the-minibosses": {
+   "base": "boss-monster",
+   "how": "",
+   "name": "Rise of the Minibosses",
+   "note": "also playable on its own",
+   "short": "Rise of the Minibosses"
+  },
+  "boss-monster-the-next-level": {
+   "base": "boss-monster",
+   "how": "",
+   "name": "Boss Monster 2: The Next Level",
+   "note": "also playable on its own; shuffle in with the base cards",
+   "short": "The Next Level"
+  },
+  "boss-monster-tools-of-hero-kind": {
+   "base": "boss-monster",
+   "how": "",
+   "name": "Tools of Hero-Kind",
+   "note": "adds Items for Heroes",
+   "short": "Tools of Hero-Kind"
+  },
+  "boss-monster-vault-of-villains": {
+   "base": "boss-monster",
+   "how": "",
+   "name": "Vault of Villains",
+   "note": "Minibosses, Rooms, Bosses, Spells; Crash Landing cards for 5–6",
+   "short": "Vault of Villains"
+  },
+  "carcassonne-inns-cathedrals": {
+   "base": "carcassonne",
+   "how": "Inns & Cathedrals adds pieces for a 6th player.",
+   "maxP": 6,
+   "minP": 6,
+   "name": "Inns & Cathedrals",
+   "note": "adds a 6th player",
+   "short": "Inns & Cathedrals"
+  },
+  "catan-56-player-extension": {
+   "base": "catan",
+   "how": "",
+   "maxP": 6,
+   "minP": 5,
+   "name": "5–6 Player Extension",
+   "note": "5–6 players",
+   "short": "5–6 Extension"
+  },
+  "catan-seafarers-56-player-extension": {
+   "base": "catan",
+   "how": "",
+   "name": "Seafarers 5–6 Player Extension",
+   "note": "needs Seafarers and the 5–6 Extension",
+   "short": "Seafarers 5–6 Player Extension"
+  },
+  "catan-seafarers": {
+   "base": "catan",
+   "how": "",
+   "name": "Seafarers",
+   "note": "islands and ships",
+   "short": "Seafarers"
+  },
+  "catan-starfarers-starfarers-56-player-extension": {
+   "base": "catan-starfarers",
+   "how": "",
+   "maxP": 6,
+   "minP": 5,
+   "name": "Starfarers 5–6 Player Extension",
+   "note": "5–6 players, about 150 min (box)",
+   "short": "5–6 Extension",
+   "tMax": 150,
+   "tMin": 150
+  },
+  "catan-traders-barbarians": {
+   "base": "catan",
+   "how": "Uses the 2-player variant in Traders & Barbarians.",
+   "maxP": 2,
+   "minP": 2,
+   "name": "Traders & Barbarians",
+   "note": "includes 2-player rules",
+   "short": "Traders & Barbarians"
+  },
+  "catan-treasures-dragons-adventurers": {
+   "base": "catan",
+   "how": "",
+   "name": "Treasures, Dragons & Adventurers",
+   "note": "also needs Cities & Knights, not in the collection",
+   "short": "Treasures, Dragons & Adventurers"
+  },
+  "downforce-wild-ride": {
+   "base": "downforce",
+   "how": "",
+   "name": "Wild Ride",
+   "note": "new race tracks",
+   "short": "Wild Ride"
+  },
+  "elements-of-truth-founders-pack": {
+   "base": "elements-of-truth",
+   "how": "",
+   "name": "Founders Pack",
+   "note": "extra question cards",
+   "short": "Founders Pack"
+  },
+  "everdell-deluxe-resource-vessels": {
+   "base": "everdell",
+   "how": "",
+   "name": "Deluxe Resource Vessels",
+   "note": "upgrade kit",
+   "short": "Deluxe Resource Vessels"
+  },
+  "the-isle-of-cats-boat-pack": {
+   "base": "the-isle-of-cats",
+   "how": "",
+   "name": "Boat Pack",
+   "note": "six new boat boards",
+   "short": "Boat Pack"
+  },
+  "the-isle-of-cats-kittens-beasts": {
+   "base": "the-isle-of-cats",
+   "how": "",
+   "name": "Kittens + Beasts",
+   "note": "new kitten and beast tiles",
+   "short": "Kittens + Beasts"
+  },
+  "the-isle-of-cats-late-arrivals": {
+   "base": "the-isle-of-cats",
+   "how": "Late Arrivals adds a 5th and 6th player.",
+   "maxP": 6,
+   "minP": 5,
+   "name": "Late Arrivals",
+   "note": "5–6 players",
+   "short": "Late Arrivals"
+  }
+ },
+ "config": {
+  "categories": [
+   {
+    "color": "#CC3311",
+    "id": "abstract",
+    "name": "Abstract"
+   },
+   {
+    "color": "#0077BB",
+    "id": "cards",
+    "name": "Cards"
+   },
+   {
+    "color": "#117733",
+    "id": "dice",
+    "name": "Dice"
+   },
+   {
+    "color": "#DDAA33",
+    "id": "strategy",
+    "name": "Strategy"
+   },
+   {
+    "color": "#EE7733",
+    "id": "family",
+    "name": "Family"
+   },
+   {
+    "color": "#AA3377",
+    "id": "party",
+    "name": "Party"
+   },
+   {
+    "color": "#8C8C8C",
+    "id": "economy",
+    "name": "Economy"
+   },
+   {
+    "color": "#33BBEE",
+    "id": "twoplayer",
+    "name": "Two Player"
+   },
+   {
+    "color": "#F4A6C6",
+    "id": "childrens",
+    "name": "Children's"
+   },
+   {
+    "color": "#44AA99",
+    "id": "cooperative",
+    "name": "Cooperative"
+   },
+   {
+    "color": "#999933",
+    "id": "solo",
+    "name": "Solo"
+   }
+  ],
+  "mechs": [
+   {
+    "l": "Dice rolling",
+    "v": "dice"
+   },
+   {
+    "l": "Card drafting",
+    "v": "drafting"
+   },
+   {
+    "l": "Deck building",
+    "v": "deck"
+   },
+   {
+    "l": "Worker placement",
+    "v": "workers"
+   },
+   {
+    "l": "Tile laying & puzzles",
+    "v": "tiles"
+   },
+   {
+    "l": "Set collection",
+    "v": "sets"
+   },
+   {
+    "l": "Engine building",
+    "v": "engine"
+   },
+   {
+    "l": "Trading & negotiation",
+    "v": "trade"
+   },
+   {
+    "l": "Area control",
+    "v": "area"
+   },
+   {
+    "l": "Route building",
+    "v": "routes"
+   },
+   {
+    "l": "Hidden roles & bluffing",
+    "v": "bluff"
+   },
+   {
+    "l": "Deduction",
+    "v": "deduce"
+   },
+   {
+    "l": "Clues & word play",
+    "v": "clues"
+   },
+   {
+    "l": "Racing",
+    "v": "race"
+   },
+   {
+    "l": "Push your luck",
+    "v": "luck"
+   },
+   {
+    "l": "Auctions & bidding",
+    "v": "auction"
+   },
+   {
+    "l": "Real-time & dexterity",
+    "v": "realtime"
+   },
+   {
+    "l": "Take that",
+    "v": "takethat"
+   }
+  ],
+  "sectors": [
+   {
+    "id": "average",
+    "name": "Average"
+   },
+   {
+    "id": "good",
+    "name": "Good"
+   },
+   {
+    "id": "verygood",
+    "name": "Very Good"
+   }
+  ],
+  "subtitle": "Collection Map",
+  "theme": "poster",
+  "title": "Board Game",
+  "updated": "2026-11-25"
+ }
+}
